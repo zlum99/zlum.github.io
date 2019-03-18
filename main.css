@@ -25,6 +25,11 @@ color: #000000;
 text-decoration: none;
 }
 
+/* mouse over link */
+  a:hover {
+      color: #3600FF;
+    }
+
 /* Centers images */
 
 img {
